@@ -1,0 +1,7 @@
+module-clock-date, module-clock-time {
+  display: block;
+}
+
+module-clock-date.inlinedate, module-clock-time.inlinetime {
+  display: inline-block;
+}

@@ -1,0 +1,14 @@
+# Ignore user configuration
+/index.html
+
+# Ignore user layout (but keep the folder)
+/styles/layout/*
+!/styles/layout/.gitkeep
+
+# Ignore user themes (but keep the folder)
+/styles/themes/*
+!/styles/themes/.gitkeep
+
+# Ignore background images (but keep the folder)
+/assets/backgrounds/*
+!/assets/backgrounds/.gitkeep

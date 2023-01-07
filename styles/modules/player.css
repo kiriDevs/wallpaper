@@ -1,0 +1,28 @@
+module-ytplayer-multi {
+  position: absolute;
+  bottom: 5em;
+  right: 3em;
+  
+  margin: 0;
+  padding: 0;
+}
+
+.module-ytplayer-embedframe {
+  margin: 0;
+  padding: 0;
+}
+
+.module-ytplayer-buttonlist {
+  display: flex;
+
+  justify-content: flex-end;
+}
+
+.module-ytplayer-button {
+  flex-grow: 1;
+  flex-shrink: 1;
+}
+
+.module-ytplayer-button + .module-ytplayer-button {
+  margin-left: 0.5em;
+}

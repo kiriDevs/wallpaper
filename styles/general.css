@@ -1,0 +1,18 @@
+/* Remove any implicit spacing */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* Make sure the site covers the entire screen */
+html, body {
+  width: 100%;
+  height: 100%;
+}
+
+/* Configure background-image */
+body {
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
