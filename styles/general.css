@@ -12,6 +12,7 @@ html, body {
 
 /* Configure background-image */
 body {
+  background-image: url(../images/background/default.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
