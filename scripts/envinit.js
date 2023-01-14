@@ -8,5 +8,6 @@ var MARKERS = {
   "mod:player:multi": "module-ytplayer-multi",
   "mod:player:multi:embedframe": "module-ytplayer-embedframe",
   "mod:player:multi:buttonlist": "module-ytplayer-buttonlist",
-  "mod:player:multi:button": "module-ytplayer-button"
+  "mod:player:multi:button": "module-ytplayer-button",
+  "util:themes:themelink": "util-themes-themelink"
 }
